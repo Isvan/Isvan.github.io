@@ -15,6 +15,9 @@ avatar:
 # Flags below are optional
 #
 
+#Theme
+remote_theme: pages-themes/hacker@v0.2.0
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -84,3 +87,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+#Plugins
+plugins:
+- jekyll-remote-theme 
