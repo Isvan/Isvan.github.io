@@ -7,13 +7,13 @@
 $blue: #4183C4; //Used for links
 
 // Grays
-$black: #000; //Used for Selections
-$darkerGray: #222; //Used for Headers
-$darkGray: #333; //Used for Text (Mostly)
-$gray: #666; //Alt Text Colour 
-$lightGray: #eee; //Background Colour for Wrapper Footer
-$wrapperBorder: #ddd;
-$white: #fff; //Background Main
+$selectionTextColour: #ffffff; //Used for Selections
+$headerColour: #ffffff; //Used for Headers
+$textColour: #ffffff; //Used for Text (Mostly)
+$altTextColour: #ffffff; //Alt Text Colour 
+$backgroundAltColour: #553f3f; //Background Colour for Wrapper Footer
+$wrapperBorder: #515151;
+$backgroundColour: #1d221d; //Background Main
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
