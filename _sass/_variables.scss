@@ -4,15 +4,16 @@
 //
 
 // Colors
-$blue: #4183C4;
+$blue: #4183C4; //Used for links
 
 // Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$black: #000; //Used for Selections
+$darkerGray: #222; //Used for Headers
+$darkGray: #333; //Used for Text (Mostly)
+$gray: #666; //Alt Text Colour 
+$lightGray: #eee; //Background Colour for Wrapper Footer
+$wrapperBorder: #ddd;
+$white: #fff; //Background Main
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
